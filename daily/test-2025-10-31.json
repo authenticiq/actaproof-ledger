@@ -1,0 +1,26 @@
+{
+  "date": "test-2025-10-31",
+  "algorithm": "sha256",
+  "leaves_format": "sha256:<hex>",
+  "count": 3,
+  "root": "test_merkle_root_1761952016905",
+  "duplicates_dropped": 0,
+  "published_to": [
+    "supabase-storage",
+    "github-commits"
+  ],
+  "proofs": {
+    "sha256:abc123": [
+      "hash1",
+      "hash2"
+    ],
+    "sha256:def456": [
+      "hash1",
+      "hash3"
+    ],
+    "sha256:ghi789": [
+      "hash4",
+      "hash5"
+    ]
+  }
+}
