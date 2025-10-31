@@ -1,1 +1,9 @@
-{"date": null, "root": null, "entries": 0, "published_to": ["supabase-storage", "github-commits"]}
+{
+  "date": "test-2025-10-31",
+  "root": "test_merkle_root_1761952016905",
+  "entries": 3,
+  "published_to": [
+    "supabase-storage",
+    "github-commits"
+  ]
+}
