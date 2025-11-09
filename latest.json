@@ -1,9 +1,0 @@
-{
-  "date": "2025-11-09",
-  "root": "test-root-mhs7j5yx",
-  "entries": 1,
-  "published_to": [
-    "supabase-storage",
-    "multi-ledger-api"
-  ]
-}
