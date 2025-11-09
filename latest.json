@@ -1,9 +1,9 @@
 {
-  "date": "test-2025-11-06",
-  "root": "test_merkle_root_1762397008399",
-  "entries": 3,
+  "date": "2025-11-09",
+  "root": "test-root-mhs78lq6",
+  "entries": 1,
   "published_to": [
     "supabase-storage",
-    "github-commits"
+    "multi-ledger-api"
   ]
 }
