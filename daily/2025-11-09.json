@@ -3,7 +3,7 @@
   "algorithm": "sha256",
   "leaves_format": "sha256:<hex>",
   "count": 1,
-  "root": "test-root-mhs78lq6",
+  "root": "test-root-mhs7j5yx",
   "duplicates_dropped": 0,
   "published_to": [
     "supabase-storage",
